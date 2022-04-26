@@ -47,3 +47,5 @@
 
 - 不可数名词不能被基数词修饰,想three news
 
+### 单数 singular
+- 
