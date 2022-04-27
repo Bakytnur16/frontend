@@ -47,5 +47,37 @@
 
 - 不可数名词不能被基数词修饰,想three news
 
-### 单数 singular
+### 复数
+1. +s
+2. 以-s,-x,-ch,sh结尾 + es
+3. 辅音字母+y, y变i,+es; 元音字母(a,e,i,o,u)+y,+s  :countries,plays,boys,donkeys
+4. o结尾一般+es; 辅音字母+o结尾的外来词/缩写 + s,元音字母+o 要+s => bamboos,cuckoos,kiminos,pianos
+6. f,fe结尾: f,fe变v+ es;+s;
+
+#### irregular
+- 以-a结尾的拉丁语名词，词尾变为-ae或-as: algae,alumnae,antennae,formulae,larvae
+- 以-ex或-ix结尾的拉丁语名词，在词尾直接加-es，或把-ex和-ix变为-ices:apeices,indices/indexes
+- 以-is结尾的希腊语名词，变-is为-es: analyses,bases,crses,diagnoses,these
+- 以-on或-um结尾的名词，变-on或-um为-a，有的可在词尾直接加s: bacteria,data,mediums,phenomena
+- 变-oo-为-ee-: foot/feet, tooth/teeth,goose/geese
+- 变-ouse为-ice: mouse/mice,louse/lice
+- 以-us结尾的拉丁语名词，变-us为-i，有的可在词尾直接加-es: cactues,funguses,geniuses,nucleuses
+
+##### 复合名词变复数
+- 由“man/woman＋名词”构成的复合名词，两个词均须变为复数： men teachers, men doctors, women pilots
+- 以-man/-woman/-child结尾的复合名词: firemen,chairwomen,horsemen,children
+- “名词＋介词或介词短语”构成的复合名词变复数时，将主体名词（或者说中心名词）变为复数: comrades-in-arms,passers-by,runners-up,lookers-on,brides-to-be
+- 由短语动词演变成的复合名词: grown-ups, take-odds,babysitters,sit-ins,stand-bys
+- 由短语动词演变成的复合名词: secretaries general,consuls general
+
+##### 单复数不变的名词:
+- 动物：sheep, deer,bison,grouse,quail,salmon,cod
+- 国籍：japanese,lebanese,portuguese,swiss,british
+
+#### 有新词义的复数名词：
+- arm-arms武器，军事, customs风俗-customs海关, damage损坏-damages赔偿金
+
+
+### 's所有格
+- 姓名，人称，不定代词，集体名词，高等动物: Mary's brother,my lawyer's office,nobody's fault, the party's decision,horse's mouth
 - 
