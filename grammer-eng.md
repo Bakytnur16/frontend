@@ -79,5 +79,8 @@
 
 
 ### 's所有格
+##### 单数
 - 姓名，人称，不定代词，集体名词，高等动物: Mary's brother,my lawyer's office,nobody's fault, the party's decision,horse's mouth
-- 
+##### 复数
+- 不以s,es结尾的复数名词：the children's books,women's wear
+- 以s结尾的复数名词，在词尾加 ' ,比如： 
