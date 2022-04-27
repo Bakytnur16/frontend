@@ -83,4 +83,30 @@
 - 姓名，人称，不定代词，集体名词，高等动物: Mary's brother,my lawyer's office,nobody's fault, the party's decision,horse's mouth
 ##### 复数
 - 不以s,es结尾的复数名词：the children's books,women's wear
-- 以s结尾的复数名词，在词尾加 ' ,比如： 
+- **以s结尾的复数名词，在词尾加 ',** 比如： the friends' money, The stars' concert was a sell-out. 
+- 复合名词的所有格，在最后一个词的词尾加“'s”构成: my father-in-law's company, everyone else's viewpoints, the President of America's secretary
+- 并列名词: 当表示“共有”的情况下，只需在最后
+**一个名词的词尾加“'s”；若表示“各自所有”，则须在每个名词的词尾加“'s”: ** 
+- John and his wife's bank savings 约翰和他妻子的共有存款
+- John's and his wife's bank savings 约翰和他妻子各自的存款
+
+1. 所属关系：就是指某人所拥有的人或物: my sister's boyfriend 我姐姐的男朋友;表示某物属于某一类人，而不是属于具体的某个人: Tom and John are men's names. 汤姆和约翰都是男子名。
+2. 主谓关系: 是指所有格名词（如Bhutto）相当于主语，而被修饰的名词（如death）相当于一个谓语, 比如： the visitor's departure， 
+
+- 表示时间或距离: today's newspaper 今天的报纸, a month's salary 一个月的薪水, three hours' delay 三小时的耽搁
+- 表示重量或价值等度量: two pounds' weight 两磅重, ten dollars' worth of meat 10块钱的肉, a ton's steel 一吨钢材
+- 表示国家、城市、国际组织或地理名词等: China's population 中国的人口, America's West Coast 美国的西海岸,the sea's depth 海洋的深度
+- 用于交通工具及其部件的所属关系: the yacht's mast 游艇的桅杆, the plane's engine 飞机的发动机
+
+### of 属格的构成 ['s所有格主要是用于有生命的名词，而of属格主要是用于无生命的名词]  
+- N1＋of＋N2: the roof of the church 教堂的屋顶, the name of the song 歌曲的名字
+- 当有生命的名词后面接短语或从句修饰时，也用of属格:
+- What is the name of the boy sitting next to her?
+
+1. 主谓关系：从右往左翻译,N2是N1行为的执行者 N1＋of＋N2
+- the arrival of my mother 我妈妈到了
+- the emergence of a strong center party 一个强大的中间党派的出现
+2. 动宾关系：从左往右翻译, N2是N1行为的承受者，而不是执行者
+- William's conquest of England 威廉王征服英国
+- a statement of the facts 陈述事实
+- the discussion of the plan 讨论这个计划
