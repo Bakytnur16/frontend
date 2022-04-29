@@ -110,3 +110,23 @@
 - William's conquest of England 威廉王征服英国
 - a statement of the facts 陈述事实
 - the discussion of the plan 讨论这个计划
+
+
+
+# 限定词：冠词the an a
+- 基数词和序数词：one/first, two/second, three/third等；
+- 指示限定词：this, that, these和those；
+- 物主限定词：my, your, his, her, our和their；
+- 数量限定词：a few, a little, much, many, a lot of, some, any, enough,several, most和all等；
+- 个体限定词：each, every, either, neither和both等；
+- 名词属格：Mary's, John's和his father's等
+
+- 元音音素(发声念的时候是元音） + an / the [ði]
+- an还用在发音以元音开头的单个字母前面: an SOS(这里的字母S读成［es］，是以元音［e］开头，所以冠词用an)
+- 有时在口语中表示“迟疑一下”的时候，或者想强调下面一个词时，即便这个词以辅音开头，前面的the也读成［ði］
+>  What, not the[ði] James Bond?
+
+- the 有时特指，有时泛指
+**定冠词主要是表示特指的用法，其次才是表示泛指的用法。但对于不定冠词a/an来说，不能表示特指，主要是用来表示泛指。**
+- 与the连用，此时**不可数名词是表示特指**
+- 
