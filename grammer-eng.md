@@ -129,4 +129,15 @@
 - the 有时特指，有时泛指
 **定冠词主要是表示特指的用法，其次才是表示泛指的用法。但对于不定冠词a/an来说，不能表示特指，主要是用来表示泛指。**
 - 与the连用，此时**不可数名词是表示特指**
+- the + 国籍 表示一个国家的人。仅限ese，sh，ch结尾的词
+- the 形容词 表示一类人(泛指),the poor,the wise,the unemployed
+
+- **单数名词与the连用表示泛指,有时也表示特指，需要推断上下文**
+1. The tiger is becoming almost extinct.
+2. Tigers are becoming almost extnct.
+3. 是因为a/an的泛指用法的上述特点，所以它不能用来表示那些属于整个类别的特性,不能说一只老虎在灭绝
+
 - 
+
+
+
